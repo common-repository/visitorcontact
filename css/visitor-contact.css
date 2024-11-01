@@ -1,0 +1,16 @@
+.greenBox {
+	padding: 15px;
+	background-color: #e8fcea;
+	border: 3px solid #008000;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	
+	color: #008000;
+	font-size: 14px;
+}
+
+.greenBox ol {
+	margin-top: 10px;
+	margin-left: 20px;
+	list-style: decimal;
+}
